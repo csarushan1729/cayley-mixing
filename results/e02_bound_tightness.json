@@ -1,0 +1,150 @@
+{
+  "hypercube": [
+    {
+      "d": 8,
+      "exact": 12,
+      "upper_bound_lemma": 14,
+      "beta_bound": 26,
+      "relax_upper": 55.451774444795625,
+      "relax_lower": 4.852030263919617,
+      "half_d_log_d": 8.317766166719343
+    },
+    {
+      "d": 16,
+      "exact": 29,
+      "upper_bound_lemma": 33,
+      "beta_bound": 97,
+      "relax_upper": 199.62638800126425,
+      "relax_lower": 10.39720770839918,
+      "half_d_log_d": 22.18070977791825
+    },
+    {
+      "d": 32,
+      "exact": 70,
+      "upper_bound_lemma": 78,
+      "beta_bound": 372,
+      "relax_upper": 754.1441324492205,
+      "relax_lower": 21.487562597358306,
+      "half_d_log_d": 55.451774444795625
+    },
+    {
+      "d": 64,
+      "exact": 162,
+      "upper_bound_lemma": 180,
+      "beta_bound": 1453,
+      "relax_upper": 2927.8536906852087,
+      "relax_lower": 43.66827237527655,
+      "half_d_log_d": 133.0842586675095
+    },
+    {
+      "d": 128,
+      "exact": 368,
+      "upper_bound_lemma": 405,
+      "beta_bound": 5745,
+      "relax_upper": 11533.96908451749,
+      "relax_lower": 88.02969193111305,
+      "half_d_log_d": 310.5299368908555
+    },
+    {
+      "d": 256,
+      "exact": 825,
+      "upper_bound_lemma": 900,
+      "beta_bound": 22846,
+      "relax_upper": 45780.98498162327,
+      "relax_lower": 176.75253104278605,
+      "half_d_log_d": 709.782712893384
+    },
+    {
+      "d": 512,
+      "exact": 1827,
+      "upper_bound_lemma": 1979,
+      "beta_bound": 91118,
+      "relax_upper": 182414.15721359968,
+      "relax_lower": 354.19820926613204,
+      "half_d_log_d": 1597.011104010114
+    },
+    {
+      "d": 1024,
+      "exact": 4009,
+      "upper_bound_lemma": 4315,
+      "beta_bound": 363941,
+      "relax_upper": 728237.063428612,
+      "relax_lower": 709.0895657128241,
+      "half_d_log_d": 3548.91356446692
+    }
+  ],
+  "cycle": [
+    {
+      "n": 16,
+      "exact": 25,
+      "upper_bound_lemma": 27,
+      "beta_bound": 54,
+      "relax_upper": 109.27108622858472,
+      "relax_lower": 17.518700524204174,
+      "t_rel": 26.27414236908825
+    },
+    {
+      "n": 32,
+      "exact": 98,
+      "upper_bound_lemma": 108,
+      "beta_bound": 252,
+      "relax_upper": 505.032638075588,
+      "relax_lower": 71.45437254452406,
+      "t_rel": 104.08686891981736
+    },
+    {
+      "n": 64,
+      "exact": 389,
+      "upper_bound_lemma": 432,
+      "beta_bound": 1151,
+      "relax_upper": 2303.162070764427,
+      "relax_lower": 287.2021116649934,
+      "t_rel": 415.3450622319244
+    },
+    {
+      "n": 128,
+      "exact": 1555,
+      "upper_bound_lemma": 1728,
+      "beta_bound": 5178,
+      "relax_upper": 10357.98723438261,
+      "relax_lower": 1150.1943233063969,
+      "t_rel": 1660.3796462927758
+    },
+    {
+      "n": 256,
+      "exact": 6218,
+      "upper_bound_lemma": 6911,
+      "beta_bound": 23013,
+      "relax_upper": 46028.56630368772,
+      "relax_lower": 4602.163483188213,
+      "t_rel": 6640.518434555913
+    },
+    {
+      "n": 512,
+      "exact": 24870,
+      "upper_bound_lemma": 27642,
+      "beta_bound": 101258,
+      "relax_upper": 202518.0668304203,
+      "relax_lower": 18410.04020103947,
+      "t_rel": 26561.073700606095
+    },
+    {
+      "n": 1024,
+      "exact": 99479,
+      "upper_bound_lemma": 110566,
+      "beta_bound": 441852,
+      "relax_upper": 883706.882878094,
+      "relax_lower": 73641.5470926606,
+      "t_rel": 106243.29479397253
+    },
+    {
+      "n": 2048,
+      "exact": 397917,
+      "upper_bound_lemma": 442265,
+      "beta_bound": 1914692,
+      "relax_upper": 3829387.4816955286,
+      "relax_lower": 294567.57467555243,
+      "t_rel": 424972.1791911089
+    }
+  ]
+}
